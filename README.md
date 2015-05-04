@@ -1,4 +1,4 @@
-# CloudTranscode-FFMpeg-preset
+# CloudTranscode-FFMpeg-presets
 Example of FFMpeg presets that can be used by Cloud Transcode clients
 
 # Usage
