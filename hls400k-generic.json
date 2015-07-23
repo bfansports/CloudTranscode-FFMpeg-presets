@@ -2,7 +2,7 @@
     "name": "System preset: Generic HLS 400k",
     "description": "Generic transcoding preset for HLS 400k",
     "size": "400x288",
-    "frame_rate": "auto",
+    "frame_rate": 29.97,
     "video_bitrate": "272k",
     "audio_bitrate": "128k",
     "video_codec": "libx264",

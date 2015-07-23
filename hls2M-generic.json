@@ -2,7 +2,7 @@
     "name": "System preset: Generic HLS 2M",
     "description": "Generic transcoding preset for HLS 2M",
     "size": "1024x768",
-    "frame_rate": "auto",
+    "frame_rate": 29.97,
     "video_bitrate": "1872k",
     "audio_bitrate": "128k",
     "video_codec": "libx264",

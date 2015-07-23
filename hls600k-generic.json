@@ -2,7 +2,7 @@
     "name": "System preset: Generic HLS 600k",
     "description": "Generic transcoding preset for HLS 600k",
     "size": "480x320",
-    "frame_rate": "auto",
+    "frame_rate": 29.97,
     "video_bitrate": "472k",
     "audio_bitrate": "128k",
     "video_codec": "libx264",
