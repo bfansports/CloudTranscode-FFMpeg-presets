@@ -1,7 +1,7 @@
 {
     "name": "System preset: Generic 480p 16:9",
     "description": "Generic 480p 16:9 transcoding preset",
-    "size": "-1x480",
+    "size": "-2x480",
     "frame_rate": 29.97,
     "video_bitrate": "1200k",
     "audio_bitrate": "128k",
