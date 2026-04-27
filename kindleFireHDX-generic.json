@@ -6,5 +6,5 @@
     "video_bitrate": "5000k",
     "audio_bitrate": "160k",
     "video_codec": "libx264",
-    "audio_codec": "libfdk_aac",
+    "audio_codec": "aac",
 }
